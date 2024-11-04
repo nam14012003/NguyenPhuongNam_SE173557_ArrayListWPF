@@ -1,0 +1,17 @@
+D:\ArrayListWPF\Football_Repo\bin\Debug\net8.0\Football_Repo.deps.json
+D:\ArrayListWPF\Football_Repo\bin\Debug\net8.0\Football_Repo.dll
+D:\ArrayListWPF\Football_Repo\bin\Debug\net8.0\Football_Repo.pdb
+D:\ArrayListWPF\Football_Repo\bin\Debug\net8.0\Football_BusinessObject.dll
+D:\ArrayListWPF\Football_Repo\bin\Debug\net8.0\Football_DAO.dll
+D:\ArrayListWPF\Football_Repo\bin\Debug\net8.0\Football_DAO.pdb
+D:\ArrayListWPF\Football_Repo\bin\Debug\net8.0\Football_BusinessObject.pdb
+D:\ArrayListWPF\Football_Repo\obj\Debug\net8.0\Football_Repo.csproj.AssemblyReference.cache
+D:\ArrayListWPF\Football_Repo\obj\Debug\net8.0\Football_Repo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ArrayListWPF\Football_Repo\obj\Debug\net8.0\Football_Repo.AssemblyInfoInputs.cache
+D:\ArrayListWPF\Football_Repo\obj\Debug\net8.0\Football_Repo.AssemblyInfo.cs
+D:\ArrayListWPF\Football_Repo\obj\Debug\net8.0\Football_Repo.csproj.CoreCompileInputs.cache
+D:\ArrayListWPF\Football_Repo\obj\Debug\net8.0\Football.EC224539.Up2Date
+D:\ArrayListWPF\Football_Repo\obj\Debug\net8.0\Football_Repo.dll
+D:\ArrayListWPF\Football_Repo\obj\Debug\net8.0\refint\Football_Repo.dll
+D:\ArrayListWPF\Football_Repo\obj\Debug\net8.0\Football_Repo.pdb
+D:\ArrayListWPF\Football_Repo\obj\Debug\net8.0\ref\Football_Repo.dll

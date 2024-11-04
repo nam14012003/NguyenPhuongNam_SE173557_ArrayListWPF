@@ -1,0 +1,71 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NguyenPhuongNam_SE173557/1.0.0": {
+        "dependencies": {
+          "Football_Repo": "1.0.0"
+        },
+        "runtime": {
+          "NguyenPhuongNam_SE173557.dll": {}
+        }
+      },
+      "Football_BusinessObject/1.0.0": {
+        "runtime": {
+          "Football_BusinessObject.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Football_DAO/1.0.0": {
+        "dependencies": {
+          "Football_BusinessObject": "1.0.0"
+        },
+        "runtime": {
+          "Football_DAO.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Football_Repo/1.0.0": {
+        "dependencies": {
+          "Football_DAO": "1.0.0"
+        },
+        "runtime": {
+          "Football_Repo.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NguyenPhuongNam_SE173557/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Football_BusinessObject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Football_DAO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Football_Repo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

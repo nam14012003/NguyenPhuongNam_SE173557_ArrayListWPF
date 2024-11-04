@@ -1,0 +1,11 @@
+D:\ArrayListWPF\Football_BusinessObject\bin\Debug\net8.0\Football_BusinessObject.deps.json
+D:\ArrayListWPF\Football_BusinessObject\bin\Debug\net8.0\Football_BusinessObject.dll
+D:\ArrayListWPF\Football_BusinessObject\bin\Debug\net8.0\Football_BusinessObject.pdb
+D:\ArrayListWPF\Football_BusinessObject\obj\Debug\net8.0\Football_BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\ArrayListWPF\Football_BusinessObject\obj\Debug\net8.0\Football_BusinessObject.AssemblyInfoInputs.cache
+D:\ArrayListWPF\Football_BusinessObject\obj\Debug\net8.0\Football_BusinessObject.AssemblyInfo.cs
+D:\ArrayListWPF\Football_BusinessObject\obj\Debug\net8.0\Football_BusinessObject.csproj.CoreCompileInputs.cache
+D:\ArrayListWPF\Football_BusinessObject\obj\Debug\net8.0\Football_BusinessObject.dll
+D:\ArrayListWPF\Football_BusinessObject\obj\Debug\net8.0\refint\Football_BusinessObject.dll
+D:\ArrayListWPF\Football_BusinessObject\obj\Debug\net8.0\Football_BusinessObject.pdb
+D:\ArrayListWPF\Football_BusinessObject\obj\Debug\net8.0\ref\Football_BusinessObject.dll

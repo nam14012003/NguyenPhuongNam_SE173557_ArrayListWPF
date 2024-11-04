@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Football_BusinessObject/1.0.0": {
+        "runtime": {
+          "Football_BusinessObject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Football_BusinessObject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
